@@ -1,0 +1,6 @@
+{
+  "name": "Decora Gallery",
+  "description": "A premium luxury home décor and interior accessories catalog, showcasing curated styling pieces for sophisticated spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
